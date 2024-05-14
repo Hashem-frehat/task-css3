@@ -1,0 +1,27 @@
+hr{background-color:aliceblue;
+width: 300px;
+height: 0.1px;
+}
+
+.container {
+    display: grid;
+    background-color: rgb(207,210,139);
+    width: 400px;
+    height: 530px;
+    margin-left: 400px;
+    border-radius: 7px;
+}
+.container .box{
+    display: flex;
+}
+.container .box img{
+    width: 100px;
+    height: 100px;
+    margin-top: 6px;
+    margin-left: 10px;
+}
+.container .mar{
+    margin-top: 37px;
+    margin-left: 15px;
+
+}
